@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec  7 10:10:28 2017
-
-@author: brihat
-"""
-
 
 #Reading files
 import os
