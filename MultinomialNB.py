@@ -1,23 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec  7 09:02:28 2017
 
-@author: brihat
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec  7 08:48:42 2017
-
-@author: brihat
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec  6 17:50:06 2017
-
-@author: brihat
-"""
 
 #Reading files
 import os
